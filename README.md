@@ -3,7 +3,7 @@
 ## 简介
 在windows下，为你的文件夹添加备注，再也不用为了创建英文名的文件夹，却看不懂内容烦恼了
 
-<img src="./REDME/s-1.png"/>
+<img src="./README/s-1.png"/>
 
 ## 用法
 
@@ -11,7 +11,7 @@
 ### 将文件夹拖动到此程序
 1. 将文件夹拖动到此程序，作为参数运行
 
-<img src="./REDME/2.png"/>
+<img src="./README/2.png"/>
 
 2. 输入备注，完成！
 
@@ -19,11 +19,11 @@
 
 1. 双击打开这个程序
 
-<img src="./REDME/1-1.png"/>
+<img src="./README/1-1.png"/>
 
 2. 输入你要备注的文件夹路径，回车
 
-<img src="./REDME/1-2.png"/>
+<img src="./README/1-2.png"/>
 
 3. 输入备注，完成！
 
@@ -31,11 +31,11 @@
 
 1. 在“详细信息”栏右键，选择其他
 
-<img src="./REDME/a-1.png"/>
+<img src="./README/a-1.png"/>
 
 2. 找到“备注”勾选，并确定
 
-<img src="./REDME/a-2.png"/>
+<img src="./README/a-2.png"/>
 
 ## 原理
 
